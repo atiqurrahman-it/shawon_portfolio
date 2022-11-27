@@ -3,7 +3,7 @@ from django.contrib.auth.models import User
 
 
 from django.utils.text import slugify
-from ckeditor.fields import RichTextField
+# from ckeditor.fields import RichTextField
 from ckeditor_uploader.fields import RichTextUploadingField
 
 # Create your models here.
